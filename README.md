@@ -32,4 +32,4 @@ You can execute the whole notebook. Depending on the size of your conversation, 
 Some cells will display text with statistics and other plots. If you enabled PDF generation, you would find it at the specified location. Note that the code should also work for Whats' App group.
 
 # Disclaimer and license
-This project was developed as a hobby in some days. Thus it is not optimised nor completely clean; watch out before considering using it in a sensible application. For non-profit usage, do not hesitate to use it, else contact me at ivan.daniel.sievering@gmail.com. Feel free to contact me in case of bugs or enhancement to propose (but keep in mind that was just a hobby project).
+This project was developed as a hobby in some days. Thus it is not optimised nor completely clean; watch out before considering using it in a sensible application. For non-profit usage, do not hesitate to use it. Feel free to contact me in case of bugs or enhancement to propose (but keep in mind that was just a hobby project).
